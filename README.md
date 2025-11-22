@@ -13,7 +13,7 @@ Hoc parvo ludo litteras Graecas disce\!
 
 Aperi terminale tuum in directorio quod `main.cpp` et `CMakeLists.txt` continet.
 
-Crea directorium constructionis :
+Si absens, crea directorium constructionis addeque `font.ttf` (eodem ut vis, arial do in inceptum istum):
 
 ```bash
 mkdir build
@@ -50,7 +50,7 @@ cmake --build .
 
 ### Nota terminologiae (Lexicon)
 
-accomodationibus necessariis ad vocabula technica hodierna: 
+Accomodationibus necessariis ad vocabula technica hodierna: 
 
   * **Terminale** quod interpretatur (linguam fracogallicam) est Terminal
   * **Directorium** quod interpretatur est Répertoire
