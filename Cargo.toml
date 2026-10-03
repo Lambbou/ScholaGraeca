@@ -1,0 +1,14 @@
+[package]
+name = "schola_graeca"
+version = "0.2.0"
+edition = "2021"
+authors = ["ScholaGraeca Contributors"]
+description = "Ludus parvus ad litteras et linguam Graecam per Latinam discendam"
+
+[dependencies]
+bevy = "0.15"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+rand = "0.8"
+regex = "1.10"
+image = "0.25"

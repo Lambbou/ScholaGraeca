@@ -1,0 +1,52 @@
+[
+  {
+    "gradus": 1,
+    "titulus": "Apothetes",
+    "descriptio": "Naufragus in litore Epiri eiectus, sine civitate et armis.",
+    "xp_requisita": 0,
+    "vita_maxima": 100,
+    "damnum_basis": 10,
+    "multiplicator_combo": 1.0,
+    "sprite_id": "hero_apothetes"
+  },
+  {
+    "gradus": 2,
+    "titulus": "Ephebus",
+    "descriptio": "Tiro iuvenis chlamyde vestitus, litteris Graecis initiatus.",
+    "xp_requisita": 150,
+    "vita_maxima": 130,
+    "damnum_basis": 18,
+    "multiplicator_combo": 1.2,
+    "sprite_id": "hero_ephebus"
+  },
+  {
+    "gradus": 3,
+    "titulus": "Polites",
+    "descriptio": "Civis liber togatus, agoram et leges Graecas callens.",
+    "xp_requisita": 450,
+    "vita_maxima": 180,
+    "damnum_basis": 30,
+    "multiplicator_combo": 1.5,
+    "sprite_id": "hero_polites"
+  },
+  {
+    "gradus": 4,
+    "titulus": "Philosophus",
+    "descriptio": "Vir sapiens rotulo papyri munitus, arcana linguae perspicax.",
+    "xp_requisita": 1100,
+    "vita_maxima": 250,
+    "damnum_basis": 48,
+    "multiplicator_combo": 1.8,
+    "sprite_id": "hero_philosophus"
+  },
+  {
+    "gradus": 5,
+    "titulus": "Archon",
+    "descriptio": "Magistratus supremus auro laureatus, totius Helladis decus.",
+    "xp_requisita": 2500,
+    "vita_maxima": 350,
+    "damnum_basis": 75,
+    "multiplicator_combo": 2.2,
+    "sprite_id": "hero_archon"
+  }
+]

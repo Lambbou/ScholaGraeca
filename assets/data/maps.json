@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "nomen": "Litus Epiri",
+    "descriptio": "Ora maritima aspera, ubi fluctus Ionii spumas ad saxa iaciunt.",
+    "latitudo": 40,
+    "altitudo": 30,
+    "spawn_x": 12.0,
+    "spawn_y": 10.0,
+    "npc_id": "piscator_epiri",
+    "npc_x": 18.0,
+    "npc_y": 14.0,
+    "monstrum_id": "harpyia",
+    "monstrum_x": 34.0,
+    "monstrum_y": 24.0,
+    "transitus_x": 38.0,
+    "transitus_y": 24.0
+  }
+]

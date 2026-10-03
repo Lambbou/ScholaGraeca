@@ -1,0 +1,46 @@
+[
+  {
+    "id": "harpyia",
+    "nomen": "Harpyia (Ἁρπυῖα)",
+    "titulus_latinus": "Tempestatum Praedatrix",
+    "regio": 1,
+    "vita_maxima": 80,
+    "damnum": 12,
+    "fabula_latina": "Harpyiae, filiae Thaumantis et Electrae Oceani nymphae, sunt monstra volucria vultu virginali, unguibus aduncis et odore foedissimo. Homero teste, ventorum rapinarumque personificatio habentur. Phineum regem caecum olim cruciabant, cibum rapientes aut spurcantes. Ad eas superandas, oportet primas litteras Graecas (ab Alpha ad Mu) recte enuntiare.",
+    "litterae_min": 1,
+    "litterae_max": 12
+  },
+  {
+    "id": "aper_calydonius",
+    "nomen": "Aper Calydonius (Καλυδώνιος κάπρος)",
+    "titulus_latinus": "Diana Iratissimae Vindex",
+    "regio": 2,
+    "vita_maxima": 150,
+    "damnum": 20,
+    "fabula_latina": "Aper vastissimus ab Artemide (Diana) in agros Oenei regis Calydonii immissus, quia rex primitias frugum deae oblitus erat. Dentes habebat sicut elephas, setas ferreas. Meleager heros Atalantaque virgo hanc bestiam tandem confecerunt. Sub quercubus Dodonae viatorem aggreditur; litterarum complexarum (Nu usque ad Omega) notitia domari potest.",
+    "litterae_min": 13,
+    "litterae_max": 24
+  },
+  {
+    "id": "sphinx",
+    "nomen": "Sphinx (Σφίγξ)",
+    "titulus_latinus": "Aenigmatum Domina Thebana",
+    "regio": 3,
+    "vita_maxima": 250,
+    "damnum": 32,
+    "fabula_latina": "Monstrum ortum ex Typhone et Echidna: corpus leonis, alas aquilae, faciem virginis humanae gerebat. In rupe prope Thebas sedens, viatoribus aenigma canebat: 'Quid ambulat mane quattuor pedibus, meridie duobus, vespere tribus?' Qui solvere nequibat, statim devorabatur, donec Oedipus hominem nominavit. Ipsa verba Graeca requirens animas probat.",
+    "litterae_min": 1,
+    "litterae_max": 24
+  },
+  {
+    "id": "minotaurus",
+    "nomen": "Minotaurus (Μῑνώταυρος)",
+    "titulus_latinus": "Labyrinthi Terror Creticus",
+    "regio": 4,
+    "vita_maxima": 400,
+    "damnum": 45,
+    "fabula_latina": "Asterius dictus, filius Pasiphaae reginae et tauri candidi a Neptuno missi. In Labyrintho a Daedalo ingenioso aedificato inclusus, septenos pueros totidemque puellas Athenienses quotannis manducabat. Theseus ope Ariadnes et fili labyrinthum penetravit taurumque peremit. Perfectam totius linguae sapientiam ad debellandum exigit.",
+    "litterae_min": 1,
+    "litterae_max": 24
+  }
+]

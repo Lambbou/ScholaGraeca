@@ -1,0 +1,26 @@
+[
+  {
+    "id": "piscator_epiri",
+    "regio": 1,
+    "npc_nomen": "Piscator Epiri",
+    "titulus": "Senex Maritimus",
+    "dialogi": [
+      {
+        "passus": 1,
+        "npc_verba": "Salve, hospes! In harenis Epiri nudus iaces. Quis es et unde venis?",
+        "notio": "Salutation et identité de naufragé",
+        "lemmata": ["salve", "ave", "sum", "naufragus", "ego", "mare", "navis"],
+        "exemplum": "Salve! Naufragus sum e mari eiectus.",
+        "xp": 40
+      },
+      {
+        "passus": 2,
+        "npc_verba": "Vae! Harpyia orae viam claudit et transeuntes unguibus diripit. Audisne me?",
+        "notio": "Courage et résolution d'affronter le monstre",
+        "lemmata": ["audio", "scio", "pugnabo", "ibo", "vincam", "timeo", "paratus", "ita"],
+        "exemplum": "Audio te! Pugnabo et Harpyiam vincam.",
+        "xp": 60
+      }
+    ]
+  }
+]
